@@ -1,0 +1,19 @@
+.menu1 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    border: 0px;
+}
+    .menu1 tr, .menu1 td {
+        border: 0px;
+    }
+    .date {
+        width: 100%;
+        border-collapse: collapse;
+    }
+td {
+    border: 1px solid;
+    padding: 8px;
+    
+}
